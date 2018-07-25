@@ -1,0 +1,141 @@
+#cro-top {
+
+	background-image:url(../images/bg/top.png);
+	height:50px;
+	width:100%;
+	position:fixed;
+	top:0px;
+	left:0px;
+
+}
+
+#cro-main-bg {
+
+	background-image:url(../images/bg/main.png);
+	width:900px;
+	heighT:500px;
+
+}
+
+#cro-base {
+
+	background-image:url(../images/bg/content.png);
+	width:900px;
+
+}
+
+#cro-end {
+
+	background-image:url(../images/bg/end.png);
+	height:134px;
+	width:900px;
+
+}
+
+body {
+
+	background-image:url(../images/bg/body.png);
+
+}
+
+span.content-top {
+
+	font-family:Trebuchet MS;
+	color:white;
+	font-size:13px;
+	font-weight:bold;
+
+}
+
+a.status_on {
+
+	background-image:url(../images/header/on.png);
+	width:30px;
+	height:30px;
+	display:block;
+
+}
+
+a.status_off {
+
+	background-image:url(../images/header/off.png);
+	width:30px;
+	height:30px;
+	display:block;
+
+}
+
+a.juvarabrera {
+
+	width:78px;
+	height:50px;
+	background-image:url(../images/footer/logo.png);
+	display:block;
+
+}
+
+a.navigation {
+
+	font-family:Trebuchet MS;
+	font-size:13px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+	display:block;
+
+}
+
+span.Title {
+
+	font-family:Trebuchet MS;
+	font-size:15px;
+	font-weight:bold;
+	color:1e7e8a;
+
+}
+
+span.Content {
+
+	font-family:Trebuchet MS;
+	font-size:13px;
+
+}
+
+span.footer {
+
+	font-family:Trebuchet MS;
+	font-size:13px;
+
+}
+
+table.base {
+
+	width:800px;
+
+}
+
+table.navigation {
+
+	width:210px;
+
+}
+
+td.leftsidebar {
+
+	width:210px;
+
+}
+
+td.center {
+
+	width:500px;
+	border-left:2px dashed #3fb2c0;
+	border-bottom:2px dashed #3fb2c0;
+
+}
+
+td.navigation:hover {
+
+	background-color:#3fb2c0;
+
+}
